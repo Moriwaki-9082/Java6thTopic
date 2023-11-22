@@ -8,6 +8,7 @@ public class Java6thTopicApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Java6thTopicApplication.class, args);
+
 	}
 
 }
