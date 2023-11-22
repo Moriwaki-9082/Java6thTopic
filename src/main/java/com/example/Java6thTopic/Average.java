@@ -13,10 +13,12 @@ public class Average {
     }
 
     public List<Parson> getMembers() {
+
         return members;
     }
 
     public com.example.Java6thTopic.AverageText getAverageText() {
+
         return averageText;
     }
 }
